@@ -1,0 +1,14 @@
+Category,Item,Unit,Emission Factor (kg CO2)
+Transport,Car (Petrol),per km,0.192
+Transport,Car (Diesel),per km,0.171
+Transport,Bus,per km,0.105
+Transport,Train,per km,0.041
+Transport,Motorcycle,per km,0.103
+Transport,Bicycle,per km,0.0
+Transport,Walking,per km,0.0
+Electricity,Electricity,per kWh,0.708
+Food,Vegetarian,per day,2.5
+Food,Non-Vegetarian,per day,5.0
+Food,Vegan,per day,2.0
+Waste,Mixed Waste,per kg,0.57
+Waste,Recycled Waste,per kg,0.1
